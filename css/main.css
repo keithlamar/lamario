@@ -46,3 +46,13 @@ body {
 	text-decoration:none;
 	background:#e6e6e6;
 }
+
+#content{
+	position: relative;
+	width: 800px;
+	height: 500px;
+	background-color: white;
+	top: 150px;
+	right: 150px;
+
+}
