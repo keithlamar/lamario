@@ -12,8 +12,8 @@ $(document).ready(function(){
 		height		: '70%',
 		autoSize	: false,
 		closeClick	: false,
-		openEffect	: 'none',
-		closeEffect	: 'none'
+		openEffect	: 'fade',
+		closeEffect	: 'fade'
 	});
 	
 
